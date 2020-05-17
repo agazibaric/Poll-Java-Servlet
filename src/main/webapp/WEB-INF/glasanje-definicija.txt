@@ -1,0 +1,7 @@
+1	Chet Baker	https://www.youtube.com/watch?v=z4PKzz81m5c
+2	AC DC	https://www.youtube.com/watch?v=UKlO0hM-zMw
+3	A-F-R-O	https://www.youtube.com/watch?v=-c3X91Ld-GU
+4	Toto	https://www.youtube.com/watch?v=FTQbiNvZqaY
+5	Nirvana	https://www.youtube.com/watch?v=atx9X4s6_zg
+6	Hugo Kant	https://www.youtube.com/watch?v=XTbSX0TOj6g
+7	Dire Straits	https://www.youtube.com/watch?v=v-A5Kf-SqXk
